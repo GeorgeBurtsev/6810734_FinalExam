@@ -1,0 +1,1552 @@
+Unity Editor version:    6000.5.3f1 (c2eb47b3a2a9)
+Branch:                  6000.5/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 15.2 (Build 24C101)
+Darwin version:          24.2.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        24576 MB
+Date:                    2026-10-09T03:20:31Z
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-georgeburtsev2007" at "2026-10-09T03:20:31.246595Z"
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.5.3f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW3
+-projectPath
+/Users/georgeburtsev2007/Desktop/AU/2026-1/Game Design and Development (CSX4515)/Unity/6810734_Final_Exam
+-logFile
+Logs/AssetImportWorkerHW3.log
+-srvPort
+50929
+-parentPid
+31564
+-analyticsCloudUserId
+18968465022964
+-analyticsCloudProjectId
+119fafb8-c94c-4152-bc3b-0de41fafd8b6
+-analyticsLocalProjectId
+6ae970de5df4a44eaba9034273b62b56
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-metal
+-name AssetImport
+Successfully changed project path to: /Users/georgeburtsev2007/Desktop/AU/2026-1/Game Design and Development (CSX4515)/Unity/6810734_Final_Exam
+/Users/georgeburtsev2007/Desktop/AU/2026-1/Game Design and Development (CSX4515)/Unity/6810734_Final_Exam
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=0"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [8249049664]  Target information:
+
+Player connection [8249049664]  * "[IP] 192.168.1.103 [Port] 0 [Flags] 2 [Guid] 981146733 [EditorId] 981146733 [Version] 1048832 [Id] OSXEditor(0,Georges-MacBook-Pro.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8249049664] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8249049664] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 3.37 ms, found 2 plugins.
+Initialize engine version: 6000.5.3f1 (c2eb47b3a2a9)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.5.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/georgeburtsev2007/Desktop/AU/2026-1/Game Design and Development (CSX4515)/Unity/6810734_Final_Exam/Assets
+Forcing GfxDevice: Metal
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M4 Pro (high power)
+Metal devices available: 1
+0: Apple M4 Pro (high power)
+Using device Apple M4 Pro (high power)
+Initializing Metal device caps: Apple M4 Pro
+Mac GPU Family: 2
+Apple GPU Family: 9
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              ecd8a984d2fc4f698a46d719986764c2
+  Correlation Id:          f2b3bff9271ab18776aeb74f1feb0283
+  External correlation Id: 9185203651395580441
+  Machine Id:              9M1zCBFGpa3+Osu+mvXHIeP3kTg=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-georgeburtsev2007" (connect: 0.00s, validation: 0.00s, handshake: 0.27s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-georgeburtsev2007-notifications" at "2026-10-09T03:20:31.518242Z"
+[Licensing::Module] Licensing Background thread has ended after 0.27s
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.5.3f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.5.3f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = '/Applications/Unity/Hub/Editor/6000.5.3f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.5.3f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56112
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.5.3f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.5.3f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001177 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.228 seconds
+Domain Reload Profiling: 517ms
+	BeginReloadAssembly (69ms)
+	RebuildCommonClasses (3ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (176ms)
+		LoadAssemblies (69ms)
+		AnalyzeDomain (134ms)
+			TypeCache.Refresh (133ms)
+				TypeCache.ScanAssembly (123ms)
+	FinalizeReload (229ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (55ms)
+			ProcessInitializeOnLoadMethodAttributes (73ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 18968465022964-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[CoreBusinessMetrics] Unexpected thread when updating session info.
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.424 seconds
+Domain Reload Profiling: 890ms
+	BeginReloadAssembly (87ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (343ms)
+		LoadAssemblies (152ms)
+		AnalyzeDomain (162ms)
+			TypeCache.Refresh (116ms)
+				TypeCache.ScanAssembly (105ms)
+			BuildScriptInfoCaches (40ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (425ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (171ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Launching external process: /Applications/Unity/Hub/Editor/6000.5.3f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Curl error 3: URL rejected: Error
+Unloading 6430 unused Assets / (5.0 MB). Loaded Objects now: 7264.
+Memory consumption went from 176.0 MB to 171.0 MB.
+Total: 5.599000 ms (FindLiveObjects: 0.306583 ms CreateObjectMapping: 0.979083 ms MarkObjects: 3.399584 ms  DeleteObjects: 0.913291 ms)
+
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.6 MB). Loaded Objects now: 7264.
+Memory consumption went from 169.5 MB to 166.9 MB.
+Total: 4.777083 ms (FindLiveObjects: 0.185959 ms CreateObjectMapping: 0.363000 ms MarkObjects: 4.010875 ms  DeleteObjects: 0.217042 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:21:01.376179Z
+  Time since last request: 13208.39955687499969 seconds.
+  importAddress: GUID: aaee9edfd91ad584982e7126ed73c97d - Path: Assets/Course Library/_Source_Files/Materials/Road.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: aaee9edfd91ad584982e7126ed73c97d - Path: Assets/Course Library/_Source_Files/Materials/Road.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: aaee9edfd91ad584982e7126ed73c97d' -> (Import Result ID: '22c79c255960fc0902a936b28b921b95') in 0.034 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d718d0a3cb3569e010233bec94bffe77 DependenciesID=917a0fa3970a33120ccb9da677afc006 StaticDependenciesID=1d048726e6dd206d8b89ca1a7406e3f2 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Thread 0x334b47000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.446 seconds
+Domain Reload Profiling: 760ms
+	BeginReloadAssembly (102ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (177ms)
+		LoadAssemblies (137ms)
+		AnalyzeDomain (13ms)
+			TypeCache.Refresh (6ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (446ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (147ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6428 unused Assets / (5.3 MB). Loaded Objects now: 7311.
+Memory consumption went from 186.1 MB to 180.8 MB.
+Total: 6.596000 ms (FindLiveObjects: 0.321125 ms CreateObjectMapping: 1.059458 ms MarkObjects: 4.005375 ms  DeleteObjects: 1.209750 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:05.224694Z
+  Time since last request: 63.807609417 seconds.
+  importAddress: GUID: ffe6994d7b7064d4f921be07b09759dc - Path: Assets/Course Library/Vehicles - Importer: PreviewImporter
+Importing 'GUID: ffe6994d7b7064d4f921be07b09759dc - Path: Assets/Course Library/Vehicles - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: ffe6994d7b7064d4f921be07b09759dc' -> (Import Result ID: '5a4b8ae5c30d45759efee0ba485439a5') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f0d6b16d90bfe3d4dc3e639f83446fb7 DependenciesID=5ccf823c5f4fd7a70d31d6b194154668 StaticDependenciesID=78c353ccdc2bbb4ed45e69a0ecee3b8c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:05.308906Z
+  Time since last request: 0.074545292 seconds.
+  importAddress: GUID: aea2a6cdcc9d7944090d528486ebaee1 - Path: Assets/Course Library/Vehicles/Veh_Armor_Car_01.prefab - Importer: PreviewImporter
+Importing 'GUID: aea2a6cdcc9d7944090d528486ebaee1 - Path: Assets/Course Library/Vehicles/Veh_Armor_Car_01.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: aea2a6cdcc9d7944090d528486ebaee1' -> (Import Result ID: 'd23e052f05f74fd6d76c65ff06a808ca') in 0.278 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=edfa2757469c754a8f66d32d62a4838c DependenciesID=c430f89fad0fc405bdd09a433d29dc32 StaticDependenciesID=6716d35bdc26f5e60592e1a26582fe9d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 51
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:05.594854Z
+  Time since last request: 0.000058583 seconds.
+  importAddress: GUID: 09082afec7b5e824ca611a0cc3264bcd - Path: Assets/Course Library/Vehicles/Veh_Car_Blue_Z.prefab - Importer: PreviewImporter
+Importing 'GUID: 09082afec7b5e824ca611a0cc3264bcd - Path: Assets/Course Library/Vehicles/Veh_Car_Blue_Z.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 09082afec7b5e824ca611a0cc3264bcd' -> (Import Result ID: 'f344aa430701a3b9acfe3319ea9a1b87') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dbef4ccb1c72f1d04475fd2a959c3c43 DependenciesID=91b1c96631c0865fa5e1a70314b436c0 StaticDependenciesID=f0b556e382ca02ba118edcaa0327ba05 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 39
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:05.611486Z
+  Time since last request: 0.000107541 seconds.
+  importAddress: GUID: 68840c673a0b18e41a044ed077548d55 - Path: Assets/Course Library/Vehicles/Veh_Van_Green_Z.prefab - Importer: PreviewImporter
+Importing 'GUID: 68840c673a0b18e41a044ed077548d55 - Path: Assets/Course Library/Vehicles/Veh_Van_Green_Z.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 68840c673a0b18e41a044ed077548d55' -> (Import Result ID: 'e149a756540d83fa0d77d78edc275dd6') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=afb05e2c06cf30580b5ed9ef70801e92 DependenciesID=7f51c961277f2ad95379fb626c5f8b27 StaticDependenciesID=16174bf958464d9f80df8c2dc884b18d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 39
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:05.623378Z
+  Time since last request: 0.000111667 seconds.
+  importAddress: GUID: 70bf34f6c25c948458f254e87188b00b - Path: Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab - Importer: PreviewImporter
+Importing 'GUID: 70bf34f6c25c948458f254e87188b00b - Path: Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 70bf34f6c25c948458f254e87188b00b' -> (Import Result ID: 'b70e2c3a15f315ee4d1e854688b15a3c') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0bb191800007d4e061883755a4eef1c6 DependenciesID=c53a3087ec09dbbf82784dad40d485e4 StaticDependenciesID=00f91251534603f6c504d89f986581b2 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 39
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:56.248391Z
+  Time since last request: 50.612349833 seconds.
+  importAddress: GUID: 88324ca9b0d2a46288da003b32662ac8 - Path: Assets/Course Library/Obstacles - Importer: PreviewImporter
+Importing 'GUID: 88324ca9b0d2a46288da003b32662ac8 - Path: Assets/Course Library/Obstacles - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 88324ca9b0d2a46288da003b32662ac8' -> (Import Result ID: '7554c12e231fff08001b71fb89f9e1b0') in 0.000 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=02b203a22609e3bd20559a73f9489732 DependenciesID=134a2662194cc0e2c9c91aa55793d0e7 StaticDependenciesID=0630e4383888e0c735f783c1c87ae20c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:56.321829Z
+  Time since last request: 0.065993166 seconds.
+  importAddress: GUID: cb04eea70ee14ab49b68d12e2cbbf680 - Path: Assets/Course Library/Obstacles/Barrel_02.prefab - Importer: PreviewImporter
+Importing 'GUID: cb04eea70ee14ab49b68d12e2cbbf680 - Path: Assets/Course Library/Obstacles/Barrel_02.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: cb04eea70ee14ab49b68d12e2cbbf680' -> (Import Result ID: 'b24fdc95bf9b4f85d0c801e7f593bb08') in 0.015 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c6d3a7b60e62a4b885f3b90d2de0389c DependenciesID=8ea24632a8942c42d5560bdeb7968a92 StaticDependenciesID=22e38dd01745acaa238929f0cc5bda2d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:56.344589Z
+  Time since last request: 0.0001955 seconds.
+  importAddress: GUID: 3daef342e8f3f9548b04424eac7d4d0d - Path: Assets/Course Library/Obstacles/Prop_Spool_02.prefab - Importer: PreviewImporter
+Importing 'GUID: 3daef342e8f3f9548b04424eac7d4d0d - Path: Assets/Course Library/Obstacles/Prop_Spool_02.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3daef342e8f3f9548b04424eac7d4d0d' -> (Import Result ID: 'ece58eea47d9d056f2496c6e3c4fcb22') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7475848a9e0358b52ad773df7c4053ec DependenciesID=9b3e4e018315f4d2976beb21c26e1d5f StaticDependenciesID=0c6950a6483d3ae961b8438d1fb20989 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:56.35605Z
+  Time since last request: 0.000157625 seconds.
+  importAddress: GUID: 367149bd17c4d4d4e8868ec6a5cf8d45 - Path: Assets/Course Library/Obstacles/Prop_Barrier02.prefab - Importer: PreviewImporter
+Importing 'GUID: 367149bd17c4d4d4e8868ec6a5cf8d45 - Path: Assets/Course Library/Obstacles/Prop_Barrier02.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 367149bd17c4d4d4e8868ec6a5cf8d45' -> (Import Result ID: '3589b8196d929fd0c5f19b6eee5c9bb5') in 1.759 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=196df29444ac62abe78e515cbca00bae DependenciesID=d9b25c984fe37da55b37cf0ad7e7f66f StaticDependenciesID=061d20e84f699b79603c23a8feb41080 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:22:58.122797Z
+  Time since last request: 0.000164959 seconds.
+  importAddress: GUID: cdcb19fde9e8cba40b7bff849baf2c1b - Path: Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab - Importer: PreviewImporter
+Importing 'GUID: cdcb19fde9e8cba40b7bff849baf2c1b - Path: Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: cdcb19fde9e8cba40b7bff849baf2c1b' -> (Import Result ID: '26ed3e2432387604d6ac05d2632389cc') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7934070df4abb41866906b6ee45abbc9 DependenciesID=52d973d69dac263f6f66ffc2493e495e StaticDependenciesID=6e4348c3265e2c1f675dc0ad188a338e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x17a52f000 may have been prematurely finalized
+<CFData 0x335181ae0 [0x1eccda240]>{length = 6, capacity = 6, bytes = 0x842f573f28fa}
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.371 seconds
+Domain Reload Profiling: 697ms
+	BeginReloadAssembly (118ms)
+		DisableScriptedObjects (9ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (175ms)
+		LoadAssemblies (133ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (5ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (371ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (143ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6428 unused Assets / (4.5 MB). Loaded Objects now: 7344.
+Memory consumption went from 192.4 MB to 187.9 MB.
+Total: 6.675459 ms (FindLiveObjects: 0.313333 ms CreateObjectMapping: 1.115917 ms MarkObjects: 4.184125 ms  DeleteObjects: 1.061791 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x16eb5b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.368 seconds
+Domain Reload Profiling: 676ms
+	BeginReloadAssembly (103ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (170ms)
+		LoadAssemblies (131ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (5ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (369ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6428 unused Assets / (4.7 MB). Loaded Objects now: 7347.
+Memory consumption went from 192.6 MB to 187.9 MB.
+Total: 6.248417 ms (FindLiveObjects: 0.283959 ms CreateObjectMapping: 1.034667 ms MarkObjects: 3.660625 ms  DeleteObjects: 1.268750 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6418 unused Assets / (4.9 MB). Loaded Objects now: 7348.
+Memory consumption went from 183.2 MB to 178.3 MB.
+Total: 5.799750 ms (FindLiveObjects: 0.307791 ms CreateObjectMapping: 1.057792 ms MarkObjects: 3.353708 ms  DeleteObjects: 1.080125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:27:48.615123Z
+  Time since last request: 290.47883612499999 seconds.
+  importAddress: GUID: 575f2a87ead3243fab880ac253cf759e - Path: Assets/Scripts/VehicleMove.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 575f2a87ead3243fab880ac253cf759e - Path: Assets/Scripts/VehicleMove.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 575f2a87ead3243fab880ac253cf759e' -> (Import Result ID: 'abedc3e7c84e15be154b3d306e37ac55') in 0.030 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cb0290a47c9a3c6995af9b773af10d7e DependenciesID=a8a86feca9e0468a3a493c13fc07b80f StaticDependenciesID=1f47ca3117ee5b3497dfa5a7c31b8482 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Thread 0x16eb5b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.372 seconds
+Domain Reload Profiling: 789ms
+	BeginReloadAssembly (103ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (279ms)
+		LoadAssemblies (138ms)
+		AnalyzeDomain (113ms)
+			TypeCache.Refresh (7ms)
+			BuildScriptInfoCaches (101ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (373ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (46ms)
+			ProcessInitializeOnLoadAttributes (143ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6429 unused Assets / (5.1 MB). Loaded Objects now: 7351.
+Memory consumption went from 194.4 MB to 189.3 MB.
+Total: 5.496167 ms (FindLiveObjects: 0.314250 ms CreateObjectMapping: 0.906625 ms MarkObjects: 3.295208 ms  DeleteObjects: 0.979875 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x17a467000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.371 seconds
+Domain Reload Profiling: 788ms
+	BeginReloadAssembly (106ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (278ms)
+		LoadAssemblies (137ms)
+		AnalyzeDomain (111ms)
+			TypeCache.Refresh (6ms)
+			BuildScriptInfoCaches (99ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (372ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (142ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6429 unused Assets / (5.3 MB). Loaded Objects now: 7354.
+Memory consumption went from 195.1 MB to 189.8 MB.
+Total: 5.947500 ms (FindLiveObjects: 0.309042 ms CreateObjectMapping: 0.963750 ms MarkObjects: 3.703250 ms  DeleteObjects: 0.971167 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Thread 0x17a467000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.370 seconds
+Domain Reload Profiling: 684ms
+	BeginReloadAssembly (107ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (173ms)
+		LoadAssemblies (133ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (4ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (370ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (46ms)
+			ProcessInitializeOnLoadAttributes (144ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6429 unused Assets / (4.6 MB). Loaded Objects now: 7357.
+Memory consumption went from 195.6 MB to 191.0 MB.
+Total: 6.395458 ms (FindLiveObjects: 0.276292 ms CreateObjectMapping: 1.049750 ms MarkObjects: 3.914291 ms  DeleteObjects: 1.155000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x16eb5b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.370 seconds
+Domain Reload Profiling: 686ms
+	BeginReloadAssembly (105ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (177ms)
+		LoadAssemblies (135ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (4ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (371ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (46ms)
+			ProcessInitializeOnLoadAttributes (146ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6429 unused Assets / (4.7 MB). Loaded Objects now: 7360.
+Memory consumption went from 196.1 MB to 191.4 MB.
+Total: 6.249209 ms (FindLiveObjects: 0.311750 ms CreateObjectMapping: 1.100833 ms MarkObjects: 3.808792 ms  DeleteObjects: 1.027542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x16eb5b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.363 seconds
+Domain Reload Profiling: 771ms
+	BeginReloadAssembly (101ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (273ms)
+		LoadAssemblies (133ms)
+		AnalyzeDomain (112ms)
+			TypeCache.Refresh (6ms)
+			BuildScriptInfoCaches (101ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (363ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (142ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6429 unused Assets / (4.9 MB). Loaded Objects now: 7363.
+Memory consumption went from 196.8 MB to 191.9 MB.
+Total: 5.583375 ms (FindLiveObjects: 0.304209 ms CreateObjectMapping: 0.965125 ms MarkObjects: 3.295583 ms  DeleteObjects: 1.018291 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:32:33.396327Z
+  Time since last request: 284.72678741700003 seconds.
+  importAddress: GUID: 575f2a87ead3243fab880ac253cf759e - Path: Assets/Scripts/VehicleMove.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 575f2a87ead3243fab880ac253cf759e - Path: Assets/Scripts/VehicleMove.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 575f2a87ead3243fab880ac253cf759e' -> (Import Result ID: 'b906e685e75b78334d51a3ec73d23663') in 0.033 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=38badfb683810386461b3984be625071 DependenciesID=be9e69f5ccb668840abbe0d3523e8ef5 StaticDependenciesID=e8a6de485806094ad9a751567696c210 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6419 unused Assets / (4.8 MB). Loaded Objects now: 7364.
+Memory consumption went from 188.3 MB to 183.4 MB.
+Total: 5.597375 ms (FindLiveObjects: 0.298917 ms CreateObjectMapping: 0.975750 ms MarkObjects: 3.281834 ms  DeleteObjects: 1.040541 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:32:37.834947Z
+  Time since last request: 4.396947542 seconds.
+  importAddress: GUID: 5a5eb1f7603b2445f949c28402f2ba07 - Path: Assets/Scripts/CameraVehicleMove.cs - Importer: PreviewImporter
+Importing 'GUID: 5a5eb1f7603b2445f949c28402f2ba07 - Path: Assets/Scripts/CameraVehicleMove.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 5a5eb1f7603b2445f949c28402f2ba07' -> (Import Result ID: '06dde1c58d28b12d1aef649808a6b3f3') in 0.000 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9bc358f1f81c656970210d3e4bcd1c85 DependenciesID=13e33f37c4e236416cb6b141ebe0f737 StaticDependenciesID=35d3eaf46427aa608e7db36b25f39fdf 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:32:38.704146Z
+  Time since last request: 0.861856416 seconds.
+  importAddress: GUID: 5a5eb1f7603b2445f949c28402f2ba07 - Path: Assets/Scripts/CameraVehicleMove.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 5a5eb1f7603b2445f949c28402f2ba07 - Path: Assets/Scripts/CameraVehicleMove.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 5a5eb1f7603b2445f949c28402f2ba07' -> (Import Result ID: 'd2856a26cb7c05d1ee1e6b58f5b8d852') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b0721463fddd67b564f2c8cc73fad85b DependenciesID=e2865dff1d758b0155cb03a60e57ec83 StaticDependenciesID=b59950b925c75f8bec04262eedbda465 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Thread 0x17a467000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.373 seconds
+Domain Reload Profiling: 783ms
+	BeginReloadAssembly (106ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (271ms)
+		LoadAssemblies (130ms)
+		AnalyzeDomain (111ms)
+			TypeCache.Refresh (6ms)
+			BuildScriptInfoCaches (100ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (373ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (146ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6430 unused Assets / (5.0 MB). Loaded Objects now: 7367.
+Memory consumption went from 195.6 MB to 190.6 MB.
+Total: 6.564250 ms (FindLiveObjects: 0.313083 ms CreateObjectMapping: 1.031917 ms MarkObjects: 4.051583 ms  DeleteObjects: 1.167333 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6419 unused Assets / (3.7 MB). Loaded Objects now: 7367.
+Memory consumption went from 186.0 MB to 182.2 MB.
+Total: 6.448667 ms (FindLiveObjects: 0.325584 ms CreateObjectMapping: 0.993333 ms MarkObjects: 4.053542 ms  DeleteObjects: 1.075791 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x17a467000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.384 seconds
+Domain Reload Profiling: 780ms
+	BeginReloadAssembly (104ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (258ms)
+		LoadAssemblies (118ms)
+		AnalyzeDomain (111ms)
+			TypeCache.Refresh (6ms)
+			BuildScriptInfoCaches (100ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (385ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6430 unused Assets / (5.1 MB). Loaded Objects now: 7370.
+Memory consumption went from 193.3 MB to 188.2 MB.
+Total: 6.480500 ms (FindLiveObjects: 0.317125 ms CreateObjectMapping: 1.013084 ms MarkObjects: 3.854958 ms  DeleteObjects: 1.295166 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Thread 0x16eb5b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.373 seconds
+Domain Reload Profiling: 677ms
+	BeginReloadAssembly (106ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (163ms)
+		LoadAssemblies (121ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (4ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (373ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (146ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6430 unused Assets / (4.6 MB). Loaded Objects now: 7373.
+Memory consumption went from 193.8 MB to 189.2 MB.
+Total: 6.403167 ms (FindLiveObjects: 0.315833 ms CreateObjectMapping: 1.011875 ms MarkObjects: 3.844500 ms  DeleteObjects: 1.230542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:35:53.429746Z
+  Time since last request: 194.71493583399999 seconds.
+  importAddress: GUID: 5a5eb1f7603b2445f949c28402f2ba07 - Path: Assets/Scripts/CameraVehicleMove.cs - Importer: PreviewImporter
+Importing 'GUID: 5a5eb1f7603b2445f949c28402f2ba07 - Path: Assets/Scripts/CameraVehicleMove.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 5a5eb1f7603b2445f949c28402f2ba07' -> (Import Result ID: '78f8c63b71eabe7701829e167574543d') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9bc358f1f81c656970210d3e4bcd1c85 DependenciesID=7d3a607bdbd276a34948417b13f3e532 StaticDependenciesID=332cd57873da5a03905aed0e2b091608 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Thread 0x16eb5b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.369 seconds
+Domain Reload Profiling: 669ms
+	BeginReloadAssembly (105ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (162ms)
+		LoadAssemblies (119ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (4ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (370ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (146ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6430 unused Assets / (4.5 MB). Loaded Objects now: 7376.
+Memory consumption went from 194.3 MB to 189.9 MB.
+Total: 6.380167 ms (FindLiveObjects: 0.317750 ms CreateObjectMapping: 1.047708 ms MarkObjects: 3.869792 ms  DeleteObjects: 1.144708 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:36:41.118299Z
+  Time since last request: 47.679802041 seconds.
+  importAddress: GUID: 575f2a87ead3243fab880ac253cf759e - Path: Assets/Scripts/VehicleMove.cs - Importer: PreviewImporter
+Importing 'GUID: 575f2a87ead3243fab880ac253cf759e - Path: Assets/Scripts/VehicleMove.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 575f2a87ead3243fab880ac253cf759e' -> (Import Result ID: '1f13b30eb0599bcf470ad3d522907391') in 0.000 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2bd8ff4edddaaf0c9759731ebc9bfd46 DependenciesID=bc4c26ff2878e43082ebb691dafe8ac8 StaticDependenciesID=77e9c4988b92b4c8148905e964bfbe1b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x16eb5b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.377 seconds
+Domain Reload Profiling: 790ms
+	BeginReloadAssembly (104ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (275ms)
+		LoadAssemblies (133ms)
+		AnalyzeDomain (111ms)
+			TypeCache.Refresh (6ms)
+			BuildScriptInfoCaches (100ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (377ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (46ms)
+			ProcessInitializeOnLoadAttributes (152ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6430 unused Assets / (5.2 MB). Loaded Objects now: 7379.
+Memory consumption went from 194.9 MB to 189.7 MB.
+Total: 6.577792 ms (FindLiveObjects: 0.299709 ms CreateObjectMapping: 1.148000 ms MarkObjects: 3.874875 ms  DeleteObjects: 1.254875 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Thread 0x16eb3f000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.370 seconds
+Domain Reload Profiling: 776ms
+	BeginReloadAssembly (105ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (266ms)
+		LoadAssemblies (123ms)
+		AnalyzeDomain (111ms)
+			TypeCache.Refresh (6ms)
+			BuildScriptInfoCaches (100ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (371ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (146ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6430 unused Assets / (4.9 MB). Loaded Objects now: 7382.
+Memory consumption went from 195.6 MB to 190.7 MB.
+Total: 6.067417 ms (FindLiveObjects: 0.314333 ms CreateObjectMapping: 1.041125 ms MarkObjects: 3.615500 ms  DeleteObjects: 1.096334 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Thread 0x16eb3f000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.366 seconds
+Domain Reload Profiling: 677ms
+	BeginReloadAssembly (105ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (171ms)
+		LoadAssemblies (129ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (4ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (367ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (146ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6430 unused Assets / (4.2 MB). Loaded Objects now: 7385.
+Memory consumption went from 196.1 MB to 191.9 MB.
+Total: 6.474250 ms (FindLiveObjects: 0.266875 ms CreateObjectMapping: 1.059334 ms MarkObjects: 4.009166 ms  DeleteObjects: 1.138500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.6 MB). Loaded Objects now: 7385.
+Memory consumption went from 182.9 MB to 180.2 MB.
+Total: 4.337125 ms (FindLiveObjects: 0.183959 ms CreateObjectMapping: 0.344541 ms MarkObjects: 3.593125 ms  DeleteObjects: 0.215083 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:41:57.408069Z
+  Time since last request: 316.28082275000003 seconds.
+  importAddress: GUID: 16eee8187ea9342d5bd874a0e15751c1 - Path: Assets/Scripts/MainMenu.cs - Importer: PreviewImporter
+Importing 'GUID: 16eee8187ea9342d5bd874a0e15751c1 - Path: Assets/Scripts/MainMenu.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 16eee8187ea9342d5bd874a0e15751c1' -> (Import Result ID: 'e9e5ff62d499390c4ec22fa1d79bc128') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9b4029dd1f8ce1f4d7772edc4bda2ade DependenciesID=58c32498e4c29f69746b8de346da58b7 StaticDependenciesID=6c53881646eaab119a24d50a6641e6db 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x16eb5b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.373 seconds
+Domain Reload Profiling: 776ms
+	BeginReloadAssembly (107ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (263ms)
+		LoadAssemblies (120ms)
+		AnalyzeDomain (112ms)
+			TypeCache.Refresh (6ms)
+			BuildScriptInfoCaches (101ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (373ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (148ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6430 unused Assets / (5.0 MB). Loaded Objects now: 7388.
+Memory consumption went from 193.8 MB to 188.9 MB.
+Total: 6.093334 ms (FindLiveObjects: 0.312291 ms CreateObjectMapping: 1.044917 ms MarkObjects: 3.733791 ms  DeleteObjects: 1.002125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Thread 0x17a467000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.376 seconds
+Domain Reload Profiling: 681ms
+	BeginReloadAssembly (106ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (163ms)
+		LoadAssemblies (122ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (4ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (377ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (146ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6430 unused Assets / (4.6 MB). Loaded Objects now: 7391.
+Memory consumption went from 194.4 MB to 189.7 MB.
+Total: 6.414584 ms (FindLiveObjects: 0.316000 ms CreateObjectMapping: 1.287666 ms MarkObjects: 3.583542 ms  DeleteObjects: 1.227084 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.6 MB). Loaded Objects now: 7391.
+Memory consumption went from 181.1 MB to 178.5 MB.
+Total: 10.956625 ms (FindLiveObjects: 0.684042 ms CreateObjectMapping: 1.630083 ms MarkObjects: 8.395791 ms  DeleteObjects: 0.245833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:09.367267Z
+  Time since last request: 131.949824667 seconds.
+  importAddress: GUID: a4b96ad7a65484fd4a83cb97540eee50 - Path: Assets/Scenes/Prototype 4.unity - Importer: PreviewImporter
+Importing 'GUID: a4b96ad7a65484fd4a83cb97540eee50 - Path: Assets/Scenes/Prototype 4.unity - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: a4b96ad7a65484fd4a83cb97540eee50' -> (Import Result ID: '59ecb80d38e7af2b06f3a967ea9e6e4c') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fc121f045e8a993ac2760b130ff00ddc DependenciesID=b852fd895fef2b1efdb5b758fd4fa483 StaticDependenciesID=740dc9a7d63104cd96ff35c14036f649 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.6 MB). Loaded Objects now: 7391.
+Memory consumption went from 178.3 MB to 175.6 MB.
+Total: 4.187541 ms (FindLiveObjects: 0.190750 ms CreateObjectMapping: 0.378708 ms MarkObjects: 3.390708 ms  DeleteObjects: 0.227000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:20.998375Z
+  Time since last request: 11.622355375 seconds.
+  importAddress: GUID: a23ff2708d9482e42b37fcc0c30dde67 - Path: Assets/Course Library/_Source_Files/FBX/SI_RepairIcon.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: a23ff2708d9482e42b37fcc0c30dde67 - Path: Assets/Course Library/_Source_Files/FBX/SI_RepairIcon.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: a23ff2708d9482e42b37fcc0c30dde67' -> (Import Result ID: '45afd3fac9180a5f3fe94d65c0481404') in 0.056 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ddc5fb4bd1d73335a40c657365320ad0 DependenciesID=6708c6374e57262c0e96ea9063cc51ef StaticDependenciesID=49eddeec5b4d5af5d3979aea6da6f9ce 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.061725Z
+  Time since last request: 0.000219875 seconds.
+  importAddress: GUID: 3d6b592f14dafe34c86b57060d33f7d2 - Path: Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_06.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 3d6b592f14dafe34c86b57060d33f7d2 - Path: Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_06.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 3d6b592f14dafe34c86b57060d33f7d2' -> (Import Result ID: 'd3d98f02b4065aad35c7f6731f78965c') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=be7d77d008ca7ed6811de74a7aaeab84 DependenciesID=ce885b355bc3532376e5aec14294f083 StaticDependenciesID=f5e353a7fe9e5b9f412c3dae788e4191 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.0742Z
+  Time since last request: 0.000187416 seconds.
+  importAddress: GUID: 7bc251a7285632341a306c70a8f1cfbe - Path: Assets/Course Library/Pickups/Star_01.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 7bc251a7285632341a306c70a8f1cfbe - Path: Assets/Course Library/Pickups/Star_01.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 7bc251a7285632341a306c70a8f1cfbe' -> (Import Result ID: 'd92efaa382570990ab6ffbda3df18470') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c8be2e92683ef3eb6fd9cf48d896ea37 DependenciesID=17b4c41067f1bf91e2c9f0e3ae4ec941 StaticDependenciesID=c9eef216d619549146d584446e2bc1a1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.08547Z
+  Time since last request: 0.000278792 seconds.
+  importAddress: GUID: f118de1f1c03ca2429afc8068f760de3 - Path: Assets/Course Library/Powerup Indicators - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f118de1f1c03ca2429afc8068f760de3 - Path: Assets/Course Library/Powerup Indicators - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f118de1f1c03ca2429afc8068f760de3' -> (Import Result ID: '35017f5dfef49f9ec12aec3d0229fcb5') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e719f822356401d88146c69fedeb4de6 DependenciesID=4cb90661d80eed2012efdf53239fd6d1 StaticDependenciesID=227a714ef66a83d50b10172b639135f6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.09455Z
+  Time since last request: 0.000259167 seconds.
+  importAddress: GUID: 8374f953160f8474da736dfbd18217e0 - Path: Assets/Course Library/Textures - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 8374f953160f8474da736dfbd18217e0 - Path: Assets/Course Library/Textures - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 8374f953160f8474da736dfbd18217e0' -> (Import Result ID: '7db64ab55f4dbdea31b8229113a3f96d') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b37e559cf15c5db7ed2797bcd0c995bd DependenciesID=d61d019f28a58541e062ffed472b000d StaticDependenciesID=cb2a4db4e5257f1ddf8e94ea8a0fb743 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.103652Z
+  Time since last request: 0.000225708 seconds.
+  importAddress: GUID: cd97a4f0bfba00a46a4a29156f2a23bd - Path: Assets/Course Library/_Source_Files/Materials/FX_Dust.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: cd97a4f0bfba00a46a4a29156f2a23bd - Path: Assets/Course Library/_Source_Files/Materials/FX_Dust.mat - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: cd97a4f0bfba00a46a4a29156f2a23bd' -> (Import Result ID: 'b2b0e23cd8d762157554783cf1a9a060') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6ce9ec81f3f0393fac8e648dadcf388e DependenciesID=5fcfa7eb6a5541d90c9fc336b6b7a045 StaticDependenciesID=b3b04dfa7016d48624d50476136acf85 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.117983Z
+  Time since last request: 0.000354541 seconds.
+  importAddress: GUID: a8a06204dcfa9784b86eba87c2e0a1a2 - Path: Assets/Course Library/Pickups/DollarSign.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: a8a06204dcfa9784b86eba87c2e0a1a2 - Path: Assets/Course Library/Pickups/DollarSign.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: a8a06204dcfa9784b86eba87c2e0a1a2' -> (Import Result ID: '448177d70fa3edc1409788335224660b') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=18df15a4757beddc4a2dd350d08fd527 DependenciesID=46460a7eb52d547ce8f4ba9c0ca2cf90 StaticDependenciesID=41f0126affe3c5af8c5057a929254fcc 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.129159Z
+  Time since last request: 0.000322459 seconds.
+  importAddress: GUID: c8e9a715daac24048a124a1f8e3487fa - Path: Assets/Course Library/_Source_Files/FBX/SM_Icon_Gem_01.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c8e9a715daac24048a124a1f8e3487fa - Path: Assets/Course Library/_Source_Files/FBX/SM_Icon_Gem_01.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c8e9a715daac24048a124a1f8e3487fa' -> (Import Result ID: '8c9c22ec87f66f7bdd1f283e4c5effe9') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=572850185b00ed8e89776c88d6a74f03 DependenciesID=e72a8b17cb83a9647662368963187006 StaticDependenciesID=aaaff73fbe03f74d60571d90811f7163 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.142592Z
+  Time since last request: 0.000590208 seconds.
+  importAddress: GUID: 0782c4fdae5f1624ba26300a1dc7a0a7 - Path: Assets/Course Library/Pickups/PowerIcon.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 0782c4fdae5f1624ba26300a1dc7a0a7 - Path: Assets/Course Library/Pickups/PowerIcon.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 0782c4fdae5f1624ba26300a1dc7a0a7' -> (Import Result ID: '4a14c325efdc4cd72e88455ba839c3b4') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8b72af91a669c7f5552f3b5c2978e672 DependenciesID=e2522b65333062889ea790f0cd5e78dd StaticDependenciesID=951ebf104403273efccab2166b89f243 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.15355Z
+  Time since last request: 0.000155625 seconds.
+  importAddress: GUID: 31e6dd0b1a83d2545a63dfc9ef21c42f - Path: Assets/Course Library/_Source_Files/FBX/SI_FireIcon.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 31e6dd0b1a83d2545a63dfc9ef21c42f - Path: Assets/Course Library/_Source_Files/FBX/SI_FireIcon.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 31e6dd0b1a83d2545a63dfc9ef21c42f' -> (Import Result ID: '7da5098b6b7d8a658a7bc475c6df11ea') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a9db439e2ecee75f1fb1e8e507dbdb38 DependenciesID=9f5d5c42e6a5ffcdc440816ad85adfa7 StaticDependenciesID=502a647aede9d9e2b4d941ce70320243 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.165251Z
+  Time since last request: 0.000329375 seconds.
+  importAddress: GUID: c18b0566c0ca32548acca53d337698db - Path: Assets/Course Library/Ground/Ground_Tile_Cube_FloatingIsland_01.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c18b0566c0ca32548acca53d337698db - Path: Assets/Course Library/Ground/Ground_Tile_Cube_FloatingIsland_01.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c18b0566c0ca32548acca53d337698db' -> (Import Result ID: 'a59dc7eb97d19e6e9d24764f38b13080') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9b6ca8926d9c6e17dfc311f8dfd790df DependenciesID=2a6ab25dd28f17220e01072b078e3356 StaticDependenciesID=b96300e0f24d37d2f9c1d1e4829d3ec5 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.176003Z
+  Time since last request: 0.000174042 seconds.
+  importAddress: GUID: 9e928de923724f54ea836e735efdd8b6 - Path: Assets/Course Library/Pickups/Gem_01.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 9e928de923724f54ea836e735efdd8b6 - Path: Assets/Course Library/Pickups/Gem_01.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 9e928de923724f54ea836e735efdd8b6' -> (Import Result ID: 'fd85ee443bd1c8744c8c2cca18485a8f') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3bf259e95badaa21168c57068ffd2bad DependenciesID=d62a6811d378d3d6101d75718745e72c StaticDependenciesID=592fb1638dec15c9c46c24cdc24083ba 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.187981Z
+  Time since last request: 0.0005165 seconds.
+  importAddress: GUID: 84729eeda748340d0955715b6a50b370 - Path: Assets/Scenes/Prototype 1.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 84729eeda748340d0955715b6a50b370 - Path: Assets/Scenes/Prototype 1.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 84729eeda748340d0955715b6a50b370' -> (Import Result ID: '025fbdfda014fd35e6ce5825bac55441') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6179cc30b1998f6a8c359312e2ed5112 DependenciesID=35e485ffd5c7fa0d9e559c92c823920e StaticDependenciesID=d48acd8d30a7b470c8b847d425658647 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.198465Z
+  Time since last request: 0.000265625 seconds.
+  importAddress: GUID: 1656aec7f2b3ffe45a91801f58b00253 - Path: Assets/Course Library/Powerup Indicators/SelectionRing_03.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1656aec7f2b3ffe45a91801f58b00253 - Path: Assets/Course Library/Powerup Indicators/SelectionRing_03.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1656aec7f2b3ffe45a91801f58b00253' -> (Import Result ID: 'c6cbab55cd8bf4ce658a721dbe93d86e') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=19ca96d71d67057ec6dab4ee920256dd DependenciesID=8cb5f84cde3018b83e82f4ec6ac90546 StaticDependenciesID=5469ba26acfaa6ffda1b57c9f67cb20a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.212726Z
+  Time since last request: 0.000359875 seconds.
+  importAddress: GUID: 6b38ffdcc39b96042a822bb3f490eefd - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_02.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 6b38ffdcc39b96042a822bb3f490eefd - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_02.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 6b38ffdcc39b96042a822bb3f490eefd' -> (Import Result ID: '975476eedf2368f5232ae7b65dc9de4d') in 0.018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cceff5cdaba4fcd530e95f886f71824a DependenciesID=649e1f68561b7cbae9dcd52e94d07696 StaticDependenciesID=0035c07059099ddf4bc40ef5a506369d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.239284Z
+  Time since last request: 0.000388209 seconds.
+  importAddress: GUID: 1d12fa396a3563b41b9ae11b0fb0b986 - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_08.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1d12fa396a3563b41b9ae11b0fb0b986 - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_08.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1d12fa396a3563b41b9ae11b0fb0b986' -> (Import Result ID: '52c7d205579a029b36d214904af649db') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=54de8fd814ddee0b328ef58e19a250f5 DependenciesID=92b9081df354356d11816557ee23607f StaticDependenciesID=6d9cf44444efc4b1e781244c62fd538a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.254475Z
+  Time since last request: 0.00065725 seconds.
+  importAddress: GUID: 2a09470ada0c47849ad79d26363f8e4a - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_01.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 2a09470ada0c47849ad79d26363f8e4a - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_01.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 2a09470ada0c47849ad79d26363f8e4a' -> (Import Result ID: 'ba6a72570964da6d2dd8c0f21b19d3a5') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6d8a1a5dd805185e2cc65e24d3b5ce87 DependenciesID=f00fcddc9af7f746e343e168eb8f2ab5 StaticDependenciesID=ea9ad69e8f0ee32371fcf21a396e12e2 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.266036Z
+  Time since last request: 0.000227208 seconds.
+  importAddress: GUID: ceb1bef3d4abc9344b89436369737113 - Path: Assets/Course Library/Pickups/MultiplierIcon.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: ceb1bef3d4abc9344b89436369737113 - Path: Assets/Course Library/Pickups/MultiplierIcon.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: ceb1bef3d4abc9344b89436369737113' -> (Import Result ID: '8b2fddc65584b043159bffbbf060488e') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=484e652f41d032481f5bb72f3803a865 DependenciesID=c2909585189811e4e9b2bb2ed8ce33ea StaticDependenciesID=5704d4b9d9254adaa27a77c1dd7ef034 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.277123Z
+  Time since last request: 0.000179042 seconds.
+  importAddress: GUID: 44cb397c8b73c2f40bfa05c2199ffa2b - Path: Assets/Course Library/_Source_Files/FBX/SI_PowerIcon.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 44cb397c8b73c2f40bfa05c2199ffa2b - Path: Assets/Course Library/_Source_Files/FBX/SI_PowerIcon.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 44cb397c8b73c2f40bfa05c2199ffa2b' -> (Import Result ID: 'a79d49e07e5d23475a2510ed338c2cc3') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fb30808224a8258a68a9d8241b1e29bc DependenciesID=92fe5b7a0e87f5610a9be04053c9de7b StaticDependenciesID=397656de2740fbdaf4f89e483b2797a1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.288342Z
+  Time since last request: 0.000274083 seconds.
+  importAddress: GUID: a4b96ad7a65484fd4a83cb97540eee50 - Path: Assets/Scenes/Prototype 4.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: a4b96ad7a65484fd4a83cb97540eee50 - Path: Assets/Scenes/Prototype 4.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: a4b96ad7a65484fd4a83cb97540eee50' -> (Import Result ID: '6240b62e72579279fee6231227e7ff90') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4a8a17af97d8e9d9a10e13a6923f8502 DependenciesID=4165ee08a3cc7633ceafce5b639cd576 StaticDependenciesID=a04d32611f779fee089b00a84052f964 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.297613Z
+  Time since last request: 0.00022875 seconds.
+  importAddress: GUID: 3fd5555088952419ebf0eb82e9096fa5 - Path: Assets/Course Library/_Source_Files/Materials/FX_Mist.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 3fd5555088952419ebf0eb82e9096fa5 - Path: Assets/Course Library/_Source_Files/Materials/FX_Mist.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 3fd5555088952419ebf0eb82e9096fa5' -> (Import Result ID: '196fa9ed9b0e39db01c2bd07805856f0') in 0.033 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=054edc7117c8262ebf3b8c863fcff8bb DependenciesID=b996d30c91f4d68ec2c8edd5af7d045f StaticDependenciesID=984b26fe64deafd2c81a2f0a4bf9e231 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.338262Z
+  Time since last request: 0.000274625 seconds.
+  importAddress: GUID: 18d064e59e399ac4ebf74eada94947af - Path: Assets/Course Library/Pickups/FireIcon.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 18d064e59e399ac4ebf74eada94947af - Path: Assets/Course Library/Pickups/FireIcon.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 18d064e59e399ac4ebf74eada94947af' -> (Import Result ID: '123e10c11bb953a1943664e1d00a2d16') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dafea040a587d215207da2cff4581f19 DependenciesID=4cfaf157b6ae5c7064c3a6d429fd692f StaticDependenciesID=dec554566b405e5f4ba6db7394002c87 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.349995Z
+  Time since last request: 0.000264375 seconds.
+  importAddress: GUID: 923deea38dc6a8843b15db7638919c1e - Path: Assets/Course Library/Powerup Indicators/SelectionRing_02.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 923deea38dc6a8843b15db7638919c1e - Path: Assets/Course Library/Powerup Indicators/SelectionRing_02.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 923deea38dc6a8843b15db7638919c1e' -> (Import Result ID: 'ac6d11ddeb0a709c7800c022253cbd4b') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d76952bb1bd87de8adfc838575ecc751 DependenciesID=e01fd2ea84f1437e2dfa9df1af9d7480 StaticDependenciesID=235a162c71793e4a9582e76de9558700 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.360623Z
+  Time since last request: 0.000112 seconds.
+  importAddress: GUID: 513d5f56c48761f4f9782bfff612af87 - Path: Assets/Course Library/_Source_Files/FBX/SI_Symbol_Dollar.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 513d5f56c48761f4f9782bfff612af87 - Path: Assets/Course Library/_Source_Files/FBX/SI_Symbol_Dollar.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 513d5f56c48761f4f9782bfff612af87' -> (Import Result ID: 'bc277802cf33ab36b5cc203ade74b003') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0157f359097530506d26af4b28f57c9d DependenciesID=dccd41f6bfc1d4fdae5bd2c4bb15b615 StaticDependenciesID=558bc68c3cdce0a95a13cf608613f2fc 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.371316Z
+  Time since last request: 0.000205792 seconds.
+  importAddress: GUID: 7789f4efbb0f45c4780925243375a18e - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_07.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 7789f4efbb0f45c4780925243375a18e - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_07.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 7789f4efbb0f45c4780925243375a18e' -> (Import Result ID: 'ca213bb529e9980ce139007c4972b604') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c88fb6bf847eeabfb46aeda2aefe0a12 DependenciesID=fa5fcc7c6dd9f076a9784d41dbcda799 StaticDependenciesID=c4f2157ac45ac9dce36db747aec85043 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.38162Z
+  Time since last request: 0.000150792 seconds.
+  importAddress: GUID: 2b1600b8b48e3ac4c87e5d81a4153ab7 - Path: Assets/Course Library/_Source_Files/FBX/SM_Icon_Balloon_01.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 2b1600b8b48e3ac4c87e5d81a4153ab7 - Path: Assets/Course Library/_Source_Files/FBX/SM_Icon_Balloon_01.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 2b1600b8b48e3ac4c87e5d81a4153ab7' -> (Import Result ID: 'f9d6164f34d6a7a738d7b66a0db8c390') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aff1556ffd9d4838bcaf871c4f2f842d DependenciesID=0a80825b0af022b71ef07c9ea40b94c4 StaticDependenciesID=9111a9c80a5ba232ff52c1d9b453f414 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.393014Z
+  Time since last request: 0.000128375 seconds.
+  importAddress: GUID: bbc54c0e722a346408cd09eef6dc0cd6 - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_06.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: bbc54c0e722a346408cd09eef6dc0cd6 - Path: Assets/Course Library/Textures/PolygonPrototype_Texture_Grid_06.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: bbc54c0e722a346408cd09eef6dc0cd6' -> (Import Result ID: 'e6164da64f0e80060e78f6841d33dce4') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7e97c07050bbfe262d150ecbaa9fb2e6 DependenciesID=c8283b627b8b0bd7a2bebad614d713ca StaticDependenciesID=c12df31e097c369ab1d18d06f638966e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.403471Z
+  Time since last request: 0.000200958 seconds.
+  importAddress: GUID: 2f3e352268bf84b45acf0d56b0b89518 - Path: Assets/Course Library/Pickups/Potion_01.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 2f3e352268bf84b45acf0d56b0b89518 - Path: Assets/Course Library/Pickups/Potion_01.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 2f3e352268bf84b45acf0d56b0b89518' -> (Import Result ID: '340bc9e9d0b3f1fd321de9cc3d38d276') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e493a6af547c27d3f8662cff35122892 DependenciesID=8646707af9ed09d0312c776654ee6347 StaticDependenciesID=a912fcdc89bffa44cf93b63a58210ecf 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-09T03:44:21.414605Z
+  Time since last request: 0.000185625 seconds.
+  importAddress: GUID: 64f14742378b85b4ba87441822264580 - Path: Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_03.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 64f14742378b85b4ba87441822264580 - Path: Assets/Course Library/_Source_Files/FBX/SM_Icon_SelectionRing_03.fbx - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 64f14742378b85b4ba87441822264580' -> (Import Result ID: '41ab2d2ff88ecc59b6193fb39e7de73b') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=573a2d4cb85e76fc8012811b10dd2298 DependenciesID=2e8c92b64cb04733a6393a4266eef23e StaticDependenciesID=d3e3412c65cb7f9659e36fb32e2b12fc 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+Thread 0x16eb5b000 may have been prematurely finalized
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.373 seconds
+Domain Reload Profiling: 698ms
+	BeginReloadAssembly (114ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (175ms)
+		LoadAssemblies (134ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (4ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (374ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (146ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6431 unused Assets / (5.1 MB). Loaded Objects now: 7395.
+Memory consumption went from 192.8 MB to 187.6 MB.
+Total: 6.496917 ms (FindLiveObjects: 0.349416 ms CreateObjectMapping: 1.370250 ms MarkObjects: 3.744334 ms  DeleteObjects: 1.032708 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
